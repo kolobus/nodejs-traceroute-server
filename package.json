@@ -1,0 +1,14 @@
+{
+  "name": "traceroute",
+  "subdomain": "traceroute",
+  "domains": [
+    "joyent.ip.cx"
+  ],
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "0.0.2-10",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
