@@ -1,6 +1,11 @@
 {
   "name": "traceroute",
+  "author": "Mihail Fedorov <mihail@fedorov.net>",
   "subdomain": "traceroute",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolobus/nodejs-traceroute-server.git"
+  },
   "domains": [
     "joyent.ip.cx"
   ],
