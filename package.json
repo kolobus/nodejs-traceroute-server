@@ -6,14 +6,12 @@
     "type": "git",
     "url": "https://github.com/kolobus/nodejs-traceroute-server.git"
   },
-  "domains": [
-    "joyent.ip.cx"
-  ],
-  "scripts": {
-    "start": "index.js"
-  },
+  "main": "server.js",
   "version": "0.0.2-14",
   "engines": {
     "node": "0.8.x"
+  },
+  "dependencies": {
+    "http": "0.0.0"
   }
 }
